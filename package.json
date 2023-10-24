@@ -1,0 +1,24 @@
+{
+  "name": "jest-test2",
+  "version": "0.0.1",
+  "description": "jest-testing, automated tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kribac12/jest-test2.git"
+  },
+  "keywords": [
+    "automated",
+    "unit",
+    "tests"
+  ],
+  "author": "Kribac12, kristinembache@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kribac12/jest-test2/issues"
+  },
+  "homepage": "https://github.com/kribac12/jest-test2#readme"
+}
